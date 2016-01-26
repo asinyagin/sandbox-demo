@@ -1,0 +1,9 @@
+{
+  "name": "sandbox-demo",
+  "description": "Sandbox-like app",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.4"
+  }
+}
